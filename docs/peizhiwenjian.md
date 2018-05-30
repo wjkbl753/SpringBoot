@@ -89,3 +89,10 @@ public class MyAppConfig {
     }
 }
 ```
+
+## @PropertySource
+
+所有配置都写到全局配置文件中太大了。我们可以写到另外的配置文件中(但只限于properties文件)
+
+在类上加
+@PropertySource(value = {"classpath:person.properties"})
