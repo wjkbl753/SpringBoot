@@ -96,3 +96,4 @@ public class MyAppConfig {
 
 在类上加
 @PropertySource(value = {"classpath:person.properties"})
+
