@@ -85,3 +85,12 @@ public class HelloController {
 }
 ```
 然后访问： [http://localhost:8080/student2](http://localhost:8080/student2)
+
+!> 如果idea出现spring boot configuration annotation processor not found in classpath，需要引入pom
+```xml
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-configuration-processor</artifactId>
+    <optional>true</optional>
+</dependency>
+```
