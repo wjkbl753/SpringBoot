@@ -45,3 +45,5 @@ public interface BookRepository extends JpaRepository<Book,Long> {
 
 !> 其他更详细具体使用参考官方文档 
 [https://docs.spring.io/spring-data/jpa/docs/1.11.16.RELEASE/reference/html/#jpa.query-methods](https://docs.spring.io/spring-data/jpa/docs/1.11.16.RELEASE/reference/html/#jpa.query-methods)
+
+
