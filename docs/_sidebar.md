@@ -18,3 +18,10 @@
    * [自定义查询](zidingyichaxun)
    * [自定义更新](zidingyigengxin)
 
+* 🐶 thymeleaf3
+
+  * [集成thymeleaf3](jicheng)
+  * [获取值](huoquzhi)
+  * [静态资源引入](jingtaiziyuanyinru)
+  * [判断](panduan)
+  * [迭代](diedai)
