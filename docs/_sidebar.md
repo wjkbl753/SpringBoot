@@ -18,8 +18,17 @@
    * [自定义查询](zidingyichaxun)
    * [自定义更新](zidingyigengxin)
 
-* 🐶 thymeleaf3
+* 🐶 mybatis
+  * [集成mybatis](jichengmybatis)
 
+* 🐶 事务
+  * [使用事务](shiyongshiwu)
+
+* 🐶 其他配置
+  * [druid](druid)
+
+
+* 🐶 thymeleaf3
   * [集成thymeleaf3](jicheng)
   * [获取值](huoquzhi)
   * [静态资源引入](jingtaiziyuanyinru)
