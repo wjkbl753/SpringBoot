@@ -26,7 +26,7 @@ mybatis:
 启动类上开启mapper扫描
 ```java
 @SpringBootApplication
-@MapperScan("com.weixin.mapper")
+@MapperScan("com.woyuno.mapper")
 public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
